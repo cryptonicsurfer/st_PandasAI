@@ -17,7 +17,7 @@ pandas_ai = PandasAI(llm)
 st.set_page_config(layout="wide")
 
 with st.sidebar:
-    st.image('image1.jpg')
+    st.image('image3.jpg')
     st.title("Ställ frågor i ren text till din data")
 
 
